@@ -1,0 +1,8 @@
+asyncio==3.4.3
+DateTime==4.3
+greenlet==1.1.2
+psycopg2-binary==2.9.3
+pytz==2021.3
+SQLAlchemy==1.4.31
+websockets==10.1
+zope.interface==5.4.0
